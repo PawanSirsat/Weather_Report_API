@@ -5,7 +5,7 @@
 ### This  web project done in html,css ,js
 
 #### Web link 
-
+https://pawansirsat.github.io/Weather_Report_API/
  
  #### netlify link
  
